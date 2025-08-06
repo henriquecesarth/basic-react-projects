@@ -36,7 +36,7 @@ Página com um botão que permite **alternar entre modo claro (light mode) e mod
 
 ## 🚀 Tecnologias Utilizadas
 
-- ReactJS (com `create-react-app`)
+- ReactJS (com `vite`)
 - JavaScript (sem TypeScript)
 - HTML5 + CSS3
 
