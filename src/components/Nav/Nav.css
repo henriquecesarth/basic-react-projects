@@ -1,0 +1,43 @@
+nav {
+  display: flex;
+  border-bottom: 2px solid #f3f3f3;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  z-index: 999;
+  margin-left: 2rem;
+}
+
+.nav-title {
+  width: 10rem;
+  height: 1.5rem;
+  margin-left: 2rem;
+  color: #494949;
+  font-weight: bold;
+}
+
+.nav-title:hover {
+  color: #121212;
+}
+
+.btns {
+    padding: 10px 20px;
+    margin-right: 6px;
+    background: transparent;
+    border: none;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.btns:hover {
+    background: #ccc;
+
+}
+
+.btns.active {
+    background-color: #2196f3;
+    color: white;
+}
