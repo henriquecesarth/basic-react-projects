@@ -42,23 +42,6 @@ Página com um botão que permite **alternar entre modo claro (light mode) e mod
 
 ---
 
-## 📁 Estrutura do Projeto
-
-Cada pasta representa um componente isolado com seus próprios arquivos, facilitando testes e reutilização em outros projetos.
-
-/
-├── Accordion/
-├── Calculator/
-├── Counter/
-├── Form/
-├── HiddenSearch/
-├── Meals/
-├── Testimonials/
-├── Todo/
-└── ToggleBackgroundColor/
-
----
-
 ## 🤝 Contribuições
 
 Sinta-se à vontade para abrir *Issues* ou *Pull Requests* com sugestões, melhorias ou novos componentes!
