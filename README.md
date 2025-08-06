@@ -56,6 +56,4 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ## ✨ Autor
 
-Feito com 💙 por Henrique César Teixeira Hermógenes  
-[henriquecesarth](https://github.com/henriquecesarth)
-[Henrique Teixeira](https://www.linkedin.com/in/henrique-teixeira24/)
+Desenvolvido por [Henrique Teixeira](https://www.linkedin.com/in/henrique-teixeira24/)
