@@ -36,26 +36,9 @@ Página com um botão que permite **alternar entre modo claro (light mode) e mod
 
 ## 🚀 Tecnologias Utilizadas
 
-- ReactJS (com `create-react-app`)
+- ReactJS (com `vite`)
 - JavaScript (sem TypeScript)
 - HTML5 + CSS3
-
----
-
-## 📁 Estrutura do Projeto
-
-Cada pasta representa um componente isolado com seus próprios arquivos, facilitando testes e reutilização em outros projetos.
-
-/
-├── Accordion/
-├── Calculator/
-├── Counter/
-├── Form/
-├── HiddenSearch/
-├── Meals/
-├── Testimonials/
-├── Todo/
-└── ToggleBackgroundColor/
 
 ---
 
